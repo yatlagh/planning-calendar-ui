@@ -4,7 +4,7 @@ A year-at-a-glance night-shift planning calendar for track maintenance. All 365 
 
 ![Year grid with twelve month rows, colour-coded nights and the night detail panel open on an overrun warning](docs/screenshot.png)
 
-Live demo: `https://<your-user>.github.io/planning-calendar-ui/` (deployed from `main` by the included workflow).
+Live demo: `https://yatlagh.github.io/planning-calendar-ui/` (deployed from `main` by the included workflow).
 
 ## Features
 
